@@ -1,8 +1,15 @@
-Tic Tac Toe:
+# Tic Tac Toe:
 
-Design a tic tac toe game for given n x n grid - 
+Design the game of tic-tac-toe game that is played between two players on a n x n grid. The game supports following features:
 
-        1. User should be able to choose opponent - human/bot
-        2. User should be able to choose difficulty level
-        3. Rules of the game changable - Future scope
-        4. Undo feature - Future scope
+        1. One or both of the two players can be computer.
+
+        2. User should be able to select a difficulty level(easy, medium, hard) while playing with a computer.
+
+
+
+Future Scope:
+
+        1. Add undo feature to the game.
+
+        2. Rules to decide the winner can be changed.
